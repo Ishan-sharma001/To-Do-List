@@ -13,3 +13,7 @@ A simple, interactive to-do list application built using **JavaScript**, **HTML*
 - **HTML**: Used to create the structure and layout of the to-do list
 - **CSS**: Applied for styling, including layout, colors, and overall design
 - **JavaScript**: Handles the logic for adding, removing, and marking tasks as completed
+
+<div style="text-align: center;">
+  <img src="TO-DO.png" alt="Calculator Image" width="300"/>
+</div>
